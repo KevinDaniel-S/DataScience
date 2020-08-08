@@ -1,0 +1,12 @@
+Describe the performance of a classification model
+Accuracy = (TP+TN) / Total
+
+Misclassification Rate = (FP+FN) / Total | 1 - Accuracy
+
+True positive Rate = TP / actual yes
+
+False positive Rate = FP/ actual no
+
+True positive Rate = TN / actual np
+
+Precision = TP / Predicted yes
